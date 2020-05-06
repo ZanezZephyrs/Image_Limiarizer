@@ -1,0 +1,3 @@
+Criar funcionalidade de selecionar os parametros-> criar uma nova tela/root/frame
+
+permitir limiarizar diversar imagens(criar checkbox)
